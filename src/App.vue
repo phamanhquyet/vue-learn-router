@@ -10,6 +10,8 @@ export default {
   components: {
     NavBar,
   },
+  created() {},
+  mounted() {},
 };
 </script>
 

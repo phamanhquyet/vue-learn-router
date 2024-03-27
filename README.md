@@ -1,4 +1,4 @@
-# vue-fetching-data-and-component-lifecycle-learn
+# vue-composition-api-learn
 
 ## Yêu cầu từ bài này
 

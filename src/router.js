@@ -26,7 +26,7 @@ const routes = [
     redirect: "/transactions",
   },
   {
-    path: "/:pathMatch(.*)",
+    path: "/:pathMatch(.*)*",
     name: "not-found",
     component: NotFoundPage,
   },
